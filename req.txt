@@ -1,0 +1,7 @@
+einops
+open3d
+pybullet
+moviepy
+tensorflow
+flax
+python-fcl

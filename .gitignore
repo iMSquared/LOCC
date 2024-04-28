@@ -1,0 +1,10 @@
+*__pycache__*
+logs
+log.txt
+render_save
+test.py
+dataset_val
+logs_from_server
+.vscode
+results.txt
+save_logs
